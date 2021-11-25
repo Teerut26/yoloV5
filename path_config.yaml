@@ -1,0 +1,6 @@
+train: path
+val: path
+
+# Classes
+nc: 9  # number of classes
+names: ['Log','Stump','Rock','SmallRock','PineTree','Me','LargeRock','Barrel','RoundTree']  # class names
